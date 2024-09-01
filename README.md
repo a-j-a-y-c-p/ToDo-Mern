@@ -31,7 +31,8 @@ npm install
 
 Start the backend server:
 
-npm start
+npm run dev
+
 The backend will run on http://localhost:5000.
 
 ### 3. Set Up the Frontend
@@ -46,6 +47,7 @@ npm install
 Start the React development server:
 
 npm start
+
 The frontend will run on http://localhost:3000.
 
 ### 4. Access the Application
